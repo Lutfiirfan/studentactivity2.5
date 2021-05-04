@@ -30,7 +30,7 @@ function setup(){
 
     log3 =  new Log(810,180,300, PI/2);
 
-    box5 = new Box(810,160,70,70);
+    
     log4 = new Log(760,120,150, PI/7);
 
 
@@ -55,7 +55,7 @@ function draw(){
     pig3.display();
     log3.display();
 
-    box5.display();
+    
     log4.display();
 
 
